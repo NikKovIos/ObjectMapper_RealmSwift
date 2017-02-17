@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ObjectMapper-RealmSwift'
+  s.name             = 'ObjectMapper_RealmSwift'
   s.version          = '0.1.0'
   s.summary          = 'Helps to parse RealmSwift List<Class>() and RealmOptional<T>() properties with ObjectMapper framework.'
   s.description      = <<-DESC
@@ -17,16 +17,16 @@ ObjectMapper_RealmSwift helps to parse List<Class>() and RealmOptional<T>() prop
 without "Transforms".
                        DESC
 
-  s.homepage         = 'https://github.com/NikKovIos/ObjectMapper-RealmSwift'
+  s.homepage         = 'https://github.com/NikKovIos/ObjectMapper_RealmSwift'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Nik Kov' => 'nikkovios@gmail.com' }
   s.source           = { 
-    :git => 'https://github.com/NikKovIos/ObjectMapper-RealmSwift.git',
+    :git => 'https://github.com/NikKovIos/ObjectMapper_RealmSwift.git',
     :tag => s.version.to_s 
    }
 
   s.ios.deployment_target = '9.0'
-  s.source_files = 'ObjectMapper-RealmSwift/Classes/**/*'
+  s.source_files = 'ObjectMapper_RealmSwift/Classes/**/*'
   s.frameworks = 'UIKit'
   s.dependency 'RealmSwift', '~> 2.3'
   s.dependency 'ObjectMapper', '~> 2.2'
