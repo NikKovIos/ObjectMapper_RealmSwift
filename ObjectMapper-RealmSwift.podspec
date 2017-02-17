@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ObjectMapper-RealmSwift'
   s.version          = '0.1.0'
-  s.summary          = 'Helps to parse RealmSwift's List<Class>() and RealmOptional<T>() properties with ObjectMapper framework.'
+  s.summary          = 'Helps to parse RealmSwift List<Class>() and RealmOptional<T>() properties with ObjectMapper framework.'
   s.description      = <<-DESC
 ObjectMapper (https://github.com/Hearst-DD/ObjectMapper) is a great tool to map entities. 
 But there are no functional to map directly to realm objects. 
