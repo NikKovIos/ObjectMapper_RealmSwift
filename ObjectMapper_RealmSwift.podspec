@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ObjectMapper_RealmSwift'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Helps to parse RealmSwift List<Class>() and RealmOptional<T>() properties with ObjectMapper framework.'
   s.description      = <<-DESC
 ObjectMapper (https://github.com/Hearst-DD/ObjectMapper) is a great tool to map entities. 
