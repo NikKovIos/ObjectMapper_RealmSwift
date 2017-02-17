@@ -1,4 +1,4 @@
-# ObjectMapper-RealmSwift
+# ObjectMapper_RealmSwift
 
 ![Cocoapods](https://img.shields.io/badge/pod-available-brightgreen.svg?style=flat)
 ![Platform](https://img.shields.io/badge/platform-ios-blue.svg?style=flat)
@@ -8,11 +8,11 @@
  
 ## Installation
 
-ObjectMapper-RealmSwift is available through [CocoaPods](http://cocoapods.org). To install
+ObjectMapper_RealmSwift is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'ObjectMapper-RealmSwift'
+pod 'ObjectMapper_RealmSwift'
 ```
 
 ## Example
@@ -80,7 +80,7 @@ According to https://realm.io/docs/swift/latest/#cheatsheet don't forget `dynami
 ```swift
 import RealmSwift
 import ObjectMapper
-import ObjectMapper_Realm
+import ObjectMapper_RealmSwift
 
 class UserProfile: Object, Mappable {
   let id = RealmOptional<Int>()
