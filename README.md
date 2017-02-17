@@ -20,8 +20,6 @@ pod 'ObjectMapper-RealmSwift'
 Here is the sample code how to use it. Assume you have installed RealmSwift and ObjectMapper. Next step to create realm object. 
 
 ### Json you get
-/**
- For e.g.
  ```json
  {
     "id": 12,
