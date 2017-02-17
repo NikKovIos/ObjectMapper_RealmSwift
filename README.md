@@ -1,28 +1,27 @@
-# ObjectMapper_RealmSwift
+# ObjectMapper-RealmSwift
 
-[![CI Status](http://img.shields.io/travis/Nik Kov/ObjectMapper_RealmSwift.svg?style=flat)](https://travis-ci.org/Nik Kov/ObjectMapper_RealmSwift)
-[![Version](https://img.shields.io/cocoapods/v/ObjectMapper_RealmSwift.svg?style=flat)](http://cocoapods.org/pods/ObjectMapper_RealmSwift)
-[![License](https://img.shields.io/cocoapods/l/ObjectMapper_RealmSwift.svg?style=flat)](http://cocoapods.org/pods/ObjectMapper_RealmSwift)
-[![Platform](https://img.shields.io/cocoapods/p/ObjectMapper_RealmSwift.svg?style=flat)](http://cocoapods.org/pods/ObjectMapper_RealmSwift)
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
-
+![Cocoapods](https://img.shields.io/badge/pod-available-brightgreen.svg?style=flat)
+![Platform](https://img.shields.io/badge/platform-ios-blue.svg?style=flat)
+![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?style=flat)
+![Swift version](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)
+![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)
+ 
 ## Installation
 
-ObjectMapper_RealmSwift is available through [CocoaPods](http://cocoapods.org). To install
+ObjectMapper-RealmSwift is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "ObjectMapper_RealmSwift"
+pod 'ObjectMapper-RealmSwift'
 ```
 
-## Author
+## Example
 
-Nik Kov, nkovalenok@smedialink.com
+
+
+## Inspired from
+
+https://gist.github.com/danilValeev/ef29630b61eed510ca135034c444a98a
 
 ## License
 
