@@ -170,3 +170,8 @@ https://gist.github.com/danilValeev/ef29630b61eed510ca135034c444a98a
 ## License
 
 ObjectMapper_RealmSwift is available under the MIT license. See the LICENSE file for more info.
+
+## My other Repos
+
+- [x] https://github.com/NikKovIos/SDWebImage-CircularProgressView - extension to change progress bar on images for SDWebImage
+
