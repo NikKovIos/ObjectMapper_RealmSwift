@@ -30,6 +30,5 @@ without "Transforms".
   s.frameworks = 'UIKit'
   s.dependency 'RealmSwift', '~> 2.3'
   s.dependency 'ObjectMapper', '~> 2.2'
-  s.frameworks = 'UIKit'
  
 end
