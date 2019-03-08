@@ -29,6 +29,6 @@ without "Transforms".
   s.source_files = 'ObjectMapper_RealmSwift/Classes/**/*'
   s.frameworks = 'UIKit'
   s.dependency 'RealmSwift', '> 2.3'
-  s.dependency 'ObjectMapper', '~> 2.2'
+  s.dependency 'ObjectMapper', '~> 3.3'
  
 end
